@@ -285,6 +285,14 @@
     jsonschema "^1.2.5"
     semver "^7.2.2"
 
+"@aws-cdk/cloud-assembly-schema@1.37.0":
+  version "1.37.0"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/cloud-assembly-schema/-/cloud-assembly-schema-1.37.0.tgz#864621b1c7d784c8a2002556c0f425df23e10cee"
+  integrity sha512-NPl4snssTiMtAaxYoh17NkwD4Wea0E/8lUaX3wohQ4RxeMgAghUiIJcTEtSDGjnnixWe0xAx44/5/AY7oXHfBg==
+  dependencies:
+    jsonschema "^1.2.5"
+    semver "^7.2.2"
+
 "@aws-cdk/cloudformation-diff@1.36.1":
   version "1.36.1"
   resolved "https://registry.yarnpkg.com/@aws-cdk/cloudformation-diff/-/cloudformation-diff-1.36.1.tgz#e7a277bbbabd54dd8c4ba1ff6cb1e5d02b89f9e8"
